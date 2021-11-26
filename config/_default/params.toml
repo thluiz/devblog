@@ -13,7 +13,7 @@ metaRobots = "noindex, nofollow" # Default value for Meta Tag "robots"
 # logo = false # Disable Logo
 brand = ""
 
-palette = "teal" # Default palette. Optional.
+palette = "Teal" # Default palette. Optional.
 # palettes = ["blue", "blue gray", "brown"] # Available palettes. Default to ALL.
 # palettes = [] # Disable palette switcher.
 
@@ -36,7 +36,7 @@ googleAdsense = ""
 
 # poweredBy = false # Whether to show powered by.
 
-# readingTime = false # Whether to display the reading time.
+readingTime = true # Whether to display the reading time.
 # postDate = false # Whether to display the post date in the post meta section.
 
 # featuredPostCount = 10 # The number of featured posts shown in sidebar. Turn off by setting it to false.
@@ -92,7 +92,7 @@ viewer = true # Image Viewer
   # sa = true # Adaptations must be shared under the same terms.
 
 [utterances]
-  repo = "thluiz/devthluiz3" # Replace with your repository.
+  repo = "thluiz/devblog" # Replace with your repository.
   #issueTerm = "pathname" # pathname, url, title, og:title
   #label = "comment"
   # By default, light and dark mode correspond to github-light and github-dark, respectively.
