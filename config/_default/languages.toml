@@ -1,0 +1,12 @@
+[en]
+  languageName = "English"
+  weight = 1
+
+[pt]
+  languageName = "Português"
+  weight = 2
+  [pt.params]
+    dateFormat = "02-01-2006"
+    description = "Un thème de blog extrêmement rapide, réactif et riche en fonctionnalités pour Hugo"
+    keywords = "Hugo, Bootstrap, Thème Blog"
+
